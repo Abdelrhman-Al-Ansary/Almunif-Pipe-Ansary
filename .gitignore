@@ -1,0 +1,8 @@
+# بيانات حقيقية ومفاتيح: ممنوع تترفع على GitHub أبدًا
+*.json
+backup-*
+CV-Screener-*.html
+*.env
+.env*
+*secret*
+*service_role*
